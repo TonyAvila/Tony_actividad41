@@ -7,4 +7,9 @@ public class Actividad4 {
 
 	}
 
+	
+	public void metodo1() {
+		
+	}
+
 }
